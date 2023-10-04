@@ -1,0 +1,9 @@
+
+Exercism is a website for learning to code. It offers over 3,450 coding exercises in 67 different programming languages. Users can learn by doing, and get feedback from mentors for free.
+
+Exercism is a great way to learn to code because it provides a structured and supportive environment. The exercises are designed to be challenging but achievable, and the mentors are there to help you learn from your mistakes.
+
+Exercism is also a great way to improve your coding skills. The exercises cover a wide range of topics, from basic programming concepts to more advanced topics like algorithms and data structures.
+
+If you are interested in learning to code, or if you want to improve your coding skills, I encourage you to check out Exercism. It is a great resource for learners of all levels.
+https://exercism.org/tracks
